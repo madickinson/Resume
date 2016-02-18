@@ -67,5 +67,5 @@ Experienced professional with commercial planning and zoning pre-construction, a
 
 ####BACHELOR’S | 2004 - 2008 | OHIO UNIVERSITY
 - Major: Bachelors of Specialized Studies
-Related coursework: Geography, Economics, Business Management
+- Related coursework: Geography, Economics, Business Management
 
