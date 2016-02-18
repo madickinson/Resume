@@ -47,6 +47,7 @@ Experienced professional with commercial planning and zoning pre-construction, a
 ####VERGE (VETERAN’S EMPLOYEE RESOURCE GROUP) | LEND LEASE | JANUARY 2013 - PRESENT
 - Created a veteran’s employee resource group of 50+ members with the goal of connecting US military veterans within Lend Lease to each other, and recruiting veterans from outside the organization into the Lend Lease Multi-Site group and the main Lend Lease Project Management and Construction group.
 - Coordinated a veteran hiring event in New York City for 25 veterans with resources internal to Lend Lease and an outside organization, Helmets to Hardhats. 
+
 ####BOARD MEMBER | WILD GOOSE CREATIVE | MARCH 2013 – JULY 2014
 - Joined the Wild Goose Creative Executive Board in order to help fundraise and establish a process to update the space the organization operates in while staying within the strict financial constraints required of a small arts organization.
 - Obtained a grant awarded by the Columbus, Ohio chapter of the American Institute of Architects (AIA) to redesign the space with an AIA team made up of local architects and design professionals. Wild Goose Creative Board Members and local members of the community who use the space were consulted to ensure that the redesign reflected their needs. 
