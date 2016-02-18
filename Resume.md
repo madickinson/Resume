@@ -3,6 +3,7 @@
 matt.dickinson@outlook.com | 614.859.6288
 ###Profile
 Experienced professional with commercial planning and zoning pre-construction, and construction project management experience. Able to adapt and thrive in fast paced, uncertain environments while maintaining a professional composure that is focused on client satisfaction. 
+
 ###Professional Experience
 ####ZONING/ PROJECT ENGINEER | LEND LEASE | MARCH 2012 - PRESENT
 - Completed the due diligence (planning and zoning research) and all requirements to obtain building and sign permits for more than forty Burger King restaurant projects in the North East United States, on time, as part of a nationwide remodeling effort.
@@ -16,24 +17,30 @@ Experienced professional with commercial planning and zoning pre-construction, a
 - Created Soft Cost Estimates and Project Timelines that help clients find all of the necessary Planning and Zoning costs of a project and help them accurately estimate the time needed to complete the entitlement process. 
 - Presented the SIR, Soft Cost Estimate, and Project Timeline in such a way that the client could then make the best decisions possible when determining whether or not to proceed with a project in a municipality or region.
 - Worked in a Project Management role to successfully upgrade the lighting fixtures in Extended Stay brand hotels across a ten state region, on time and under budget. 
+
 ####INTERN PLANNER | VILLAGE OF LOCKBOURNE | MAY 2011 – MARCH 2012
 - Worked to help create and organize initiatives in the Village of Lockbourne that improved the quality of life for residents and began the process of re-establishing the Village as a thriving community. 
 - Assisted with research that would ultimately assist the Village in various ongoing legal challenges and historic preservation efforts.
+
 ####FOUNDER | THE OHIO DESIGN GROUP | 2011 – 2012
 - Founding Principal and Project Initiator for a graduate student consulting team that worked with neighborhood groups and organizations in need of low cost professional planning services.
+
 ####DOCUMENT MANAGEMENT SPECIALIST | NATIONWIDE BETTER HEALTH | 2008 – 2010
 - Archived thousands of workers compensation related sensitive medical documents. Designed a system, using Microsoft Office products, to measure the productivity of individual members of the Document Management department.
 - Assisted in the successful transition of the Gates MacDonald Health Plus (a Nationwide Better Health sub-division) to new corporate ownership, in particular by digitizing medical documents and coordinating the long term storage of the physical documents.
+
 ####INTERN | THIRD SUN SOLAR AND WIND POWER | 2006 AND 2007
 - Installed and repaired photo voltaic and wind generator electrical systems in residential and commercial settings throughout a five state region while utilizing a variety of problems solving skills to fabricate alternative energy systems.
 - Utilized problem solving skills while fabricating alternative energy systems in a variety of difficult settings.
 - Completed all projects in a safe manner and in accordance with all regulations necessary for the certification process needed for clients to obtain any and all available federal and state tax credits. 
+
 ####ORDNANCE TEAM LEADER | UNITED STATES MARINE CORPS | 2000 – 2004
 - Developed leadership and advanced technical skills as an Ordnance Team Leader in a helicopter squadron in the United States and Operation Iraqi Freedom. 
 - Developed the technical and the problem solving skills necessary to maintain and troubleshoot complex electronic and mechanical systems on AH-1 and UH-1 aircraft.
 - Participated in multiple cross service and governmental agency operations including the War on Drugs and Operation Iraqi Freedom.
 - Consistently met flight schedule deadlines by prioritizing and re-directing resources to mission critical aircraft when necessary and maintaining a safe working environment.
 - Trained Marines in the safe loading and unloading of ordnance in compliance with Navy and Marine Corps Aviation Ordnance regulations. 
+
 ###Personal Experience
 ####VERGE (VETERAN’S EMPLOYEE RESOURCE GROUP) | LEND LEASE | JANUARY 2013 - PRESENT
 - Created a veteran’s employee resource group of 50+ members with the goal of connecting US military veterans within Lend Lease to each other, and recruiting veterans from outside the organization into the Lend Lease Multi-Site group and the main Lend Lease Project Management and Construction group.
@@ -41,16 +48,20 @@ Experienced professional with commercial planning and zoning pre-construction, a
 ####BOARD MEMBER | WILD GOOSE CREATIVE | MARCH 2013 – JULY 2014
 - Joined the Wild Goose Creative Executive Board in order to help fundraise and establish a process to update the space the organization operates in while staying within the strict financial constraints required of a small arts organization.
 - Obtained a grant awarded by the Columbus, Ohio chapter of the American Institute of Architects (AIA) to redesign the space with an AIA team made up of local architects and design professionals. Wild Goose Creative Board Members and local members of the community who use the space were consulted to ensure that the redesign reflected their needs. 
+
 ###Skills 
 ####TECHNICAL SKILLS
 - Microsoft Office Suite | Word (Project Documents, Proposals, SIRs); Excel (Entitlement Timelines, Pro Formas, Project Tracking Documents); Visio (Planning and Zoning Playbook); Microsoft Publisher (Business Development Documents, Marketing Materials, Client Documents)
 - Prolog Converge and Prolog Manager | Project Management Software 
+
 ####OTHER SKILLS
 - Professional Composure, Interpersonal Skills, Time Management, Task Prioritization, Project Management, Critical Thinking
+
 ###Education
 ####MASTER’S | 2010 - 2012 | THE OHIO STATE UNIVERSITY
 - Major: City and Regional Planning
 - Related coursework: Urban Planning, Project Management, Research Methods
+
 ####BACHELOR’S | 2004 - 2008 | OHIO UNIVERSITY
 - Major: Bachelors of Specialized Studies
 Related coursework: Geography, Economics, Business Management
