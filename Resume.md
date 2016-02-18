@@ -5,7 +5,9 @@ matt.dickinson@outlook.com | 614.859.6288
 Experienced professional with commercial planning and zoning pre-construction, and construction project management experience. Able to adapt and thrive in fast paced, uncertain environments while maintaining a professional composure that is focused on client satisfaction. 
 
 ###Professional Experience
-####ZONING/ PROJECT ENGINEER | LEND LEASE | MARCH 2012 - PRESENT
+####PLANNER |STATE OF OHIO | JULY 2015 - PRESENT
+
+####ZONING/ PROJECT ENGINEER | LEND LEASE | MARCH 2012 - JULY 2015
 - Completed the due diligence (planning and zoning research) and all requirements to obtain building and sign permits for more than forty Burger King restaurant projects in the North East United States, on time, as part of a nationwide remodeling effort.
 - Project Manager for four solar installation projects and assisted in the project management of another six installations in the Baltimore, Maryland region totaling 2,018 kW. Assisted in the project management of another six for a grand total of 5,438 kW. During this project, supervised the successful loading and installation of 6,726 solar panels, sixty inverters, and many miles of wiring.
 - Created a Veterans Employee Resource Group within Lend Lease that recently partnered with Helmets to Hardhats (HtoH), a group that helps place recently separated veterans in the construction industry. Led the creation of a hiring event in New York City that connected Lend Lease executives with HtoH members.
