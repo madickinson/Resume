@@ -1,4 +1,4 @@
-﻿##Matt Dickinson
+##Matt Dickinson
 ----
 matt.dickinson@outlook.com | 614.859.6288
 
