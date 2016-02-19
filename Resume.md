@@ -1,4 +1,4 @@
-##Matt Dickinson
+﻿##Matt Dickinson
 ----
 matt.dickinson@outlook.com | 614.859.6288
 
@@ -7,6 +7,7 @@ Experienced professional with commercial planning and zoning pre-construction, a
 
 ###Professional Experience
 ####PLANNER |STATE OF OHIO | JULY 2015 - PRESENT
+- Successfully completed a painting project for 80+ drivers exam stations throughout the State within the first four months of starting work
 
 ####ZONING/ PROJECT ENGINEER | LEND LEASE | MARCH 2012 - JULY 2015
 - Completed the due diligence (planning and zoning research) and all requirements to obtain building and sign permits for more than forty Burger King restaurant projects in the North East United States, on time, as part of a nationwide remodeling effort.
@@ -55,7 +56,7 @@ Experienced professional with commercial planning and zoning pre-construction, a
 
 ###Skills 
 ####TECHNICAL SKILLS
-- Microsoft Office Suite | Word (Project Documents, Proposals, SIRs); Excel (Entitlement Timelines, Pro Formas, Project Tracking Documents); Visio (Planning and Zoning Playbook); Microsoft Publisher (Business Development Documents, Marketing Materials, Client Documents)
+- Microsoft Office Suite | Word (Project Documents, Proposals, SIRs); Excel (Entitlement Timelines, Pro Formas, Project Tracking Documents); Access (Databases, Project Tracking); Sharepoint (Project Management, Financial Tracking); Visio (Planning and Zoning Playbook); Microsoft Publisher (Business Development Documents, Marketing Materials, Client Documents)
 - Prolog Converge and Prolog Manager | Project Management Software 
 
 ####OTHER SKILLS
