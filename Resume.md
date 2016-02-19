@@ -7,7 +7,7 @@ Experienced professional with commercial planning and zoning, pre-construction, 
 
 ###Professional Experience
 ####PLANNER |OFFICE OF FACILITY MANAGEMENT, OHIO DEPARTMENT OF PUBLIC SAFETY | JULY 2015 - PRESENT
-- Created a training website to streamline the training of new employees and create a repository of information relevant to Planners within the Office of Facility Management. 
+- Created a training website to streamline the training of new employees with the experiences of existing employees by creating a repository of information relevant to Planners within the Office of Facility Management. 
 - Utilized Microsoft Excel, Access, and Sharepoint software to streamline the compliance process in the Office of Facility Management. 
 - Successfully completed a painting project for 80+ drivers exam stations throughout the State within the first four months of employement with the Office of Facility Management.
 
