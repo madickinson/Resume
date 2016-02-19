@@ -6,8 +6,9 @@ matt.dickinson@outlook.com | 614.859.6288
 Experienced professional with commercial planning and zoning pre-construction, and construction project management experience. Able to adapt and thrive in fast paced, uncertain environments while maintaining a professional composure that is focused on client satisfaction. 
 
 ###Professional Experience
-####PLANNER |STATE OF OHIO | JULY 2015 - PRESENT
-- Successfully completed a painting project for 80+ drivers exam stations throughout the State within the first four months of starting work
+####PLANNER |OFFICE OF FACILITY MANAGEMENT, DEPARTMENT OF PUBLIC SAFETY, STATE OF OHIO | JULY 2015 - PRESENT
+- Created a training website to streamline the training of new employees and create a repository of information relevant to Planners within the Office of Facility Management. 
+- Successfully completed a painting project for 80+ drivers exam stations throughout the State within the first four months of employement with the Office of Facility Management.
 
 ####ZONING/ PROJECT ENGINEER | LEND LEASE | MARCH 2012 - JULY 2015
 - Completed the due diligence (planning and zoning research) and all requirements to obtain building and sign permits for more than forty Burger King restaurant projects in the North East United States, on time, as part of a nationwide remodeling effort.
