@@ -1,4 +1,4 @@
-##Matt Dickinson
+﻿##Matt Dickinson
 ----
 [Email](matt.dickinson@outlook.com) | Worthington, Ohio
 
@@ -7,6 +7,13 @@ Experienced professional with commercial planning and zoning, pre-construction, 
 
 ###Professional Experience
 ####PLANNER |OFFICE OF FACILITY MANAGEMENT, OHIO DEPARTMENT OF PUBLIC SAFETY | JULY 2015 - PRESENT
+- Assist in the planning and coordination of construction projects for the Ohio Department of Public Safety (primarily OSHP, EMA, and BMV projects). Work with contractors throughout the project life cycle to ensure that they are able to successfully navigate the required State and ODPS processes that will enable them to: access ODPS facility locations, start construction work, and ultimately deliver a final product to the State.
+- Submit funding requests to the Controlling Board to ensure that funding will be allocated to projects that the Department of Public Safety has deemed vital. Currently have submitted three Controlling Board requests (all of which were approved) for $1,035,450.52 since joining the Office of Facility Management team.
+- Prepare bid openings for projects undertaken by the Office of Facility Management and have recently started preparing for the Office of Facility Management's transition to electronic bidding. 
+- In the first 6 months of working with the Office of Facility Management, created a Microsoft Access database to track over 80 painting and chair rail projects that involved multiple vendors, multiple BMV District Managers, and multiple BMV Drivers Exam Station Supervisors across Ohio. Was able to track the projects to completion, despite sizable hurdles, and ensure that all of the projects were delivered and paid.
+- Working with the State's IT Department, created a Microsoft SharePoint page that is used as a information resource that allows for planners in the office to: reference internal procedures, quick access to the ever evolving fiscal guidelines, and to utilize online document storage that frees up space on the office's limited shared storage. 
+- Using the SharePoint's data management tools, created a tracking system to: ensure that all POs are accounted for (in particular POs that are expiring during the current fiscal year); record the relevant information for all ODPS locations throughout the state; and track all fund sources that the Ohio Department of Public Safety, in particular the Office of Facility Management, uses regularly. 
+- Worked with new employees to not only share any knowledge on office procedures acquired since starting with the Office of Facility Management, but also work with them to develop new best practices and find ways to streamline and adapt quickly to changing regulations and project requirements. 
 - Created a training website to streamline the training of new employees with the experiences of existing employees by creating a repository of information relevant to Planners within the Office of Facility Management. 
 - Utilized Microsoft Excel, Access, and Sharepoint software to streamline the compliance process in the Office of Facility Management. 
 - Successfully completed a painting project for 80+ drivers exam stations throughout the State within the first four months of employement with the Office of Facility Management.
