@@ -63,8 +63,9 @@ Experienced professional with commercial planning and zoning, pre-construction, 
 
 ###Skills 
 ####TECHNICAL SKILLS
-- Microsoft Office Suite | Word (Project Documents, Proposals, SIRs); Excel (Entitlement Timelines, Pro Formas, Project Tracking Documents); Access (Databases, Project Tracking); Sharepoint (Project Management, Financial Tracking); Visio (Planning and Zoning Playbook); Microsoft Publisher (Business Development Documents, Marketing Materials, Client Documents)
+- Microsoft Office Suite | Word (Project Documents, Proposals, SIRs); Excel (Entitlement Timelines, Pro Formas, Project Tracking Documents); Access (Databases, Project Tracking); Sharepoint (Project Management, Financial Tracking); Visio (Planning and Zoning Playbook); Microsoft Publisher (Business Development Documents, Marketing Materials, Client Documents); SharePoint (Website and Wiki creation, data tracking)
 - Prolog Converge and Prolog Manager | Project Management Software 
+- OAKS CI | Project Management and Payment Software
 
 ####OTHER SKILLS
 - Professional Composure, Interpersonal Skills, Time Management, Task Prioritization, Project Management, Critical Thinking
