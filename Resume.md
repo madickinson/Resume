@@ -6,7 +6,8 @@
 Experienced professional with commercial planning and zoning, pre-construction, and construction project management experience in the private and public sector. Able to adapt and thrive in fast paced, uncertain environments while maintaining a professional composure that is focused on client satisfaction and high-quality deliverables. 
 
 ###Professional Experience
-####PLANNER |OFFICE OF FACILITY MANAGEMENT, OHIO DEPARTMENT OF PUBLIC SAFETY | JULY 2015 - PRESENT
+####PLANNER 3 |OFFICE OF FACILITY MANAGEMENT, OHIO DEPARTMENT OF PUBLIC SAFETY | AUGUEST 2016 - PRESENT
+####PLANNER 1 |OFFICE OF FACILITY MANAGEMENT, OHIO DEPARTMENT OF PUBLIC SAFETY | JULY 2015 - AUGUST 2016
 - Submit funding requests to the Controlling Board to ensure that funding will be allocated to projects that the Department of Public Safety has deemed vital. Since joining the Office of Facility Management team in July of 2015 have submitted three Controlling Board requests (all of which were approved) for a total of $1,035,450.52.
 - Prepare bid openings for projects undertaken by the Office of Facility Management and have recently started preparing for the Office of Facility Management's transition to electronic bidding that will allow for more accurate bids and a more efficient use of state resources. 
 - Assist in the planning and coordination of construction projects for the Ohio Department of Public Safety (primarily OSHP, EMA, and BMV projects). Work with contractors throughout the project life cycle to ensure that they are able to successfully navigate the required State and ODPS processes that will enable them to: access ODPS facility locations, start construction work, and ultimately deliver a final product to the State.
